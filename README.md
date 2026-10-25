@@ -1,38 +1,53 @@
-# Hi, I'm Komal 👋
+<h1 align="center">Hi, I'm Komal 👋</h1>
 
-### Azure DevOps Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=23&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Azure+DevOps+Engineer;Building+with+Azure+%7C+Terraform+%7C+CI%2FCD;Learn+%E2%80%A2+Build+%E2%80%A2+Automate+%E2%80%A2+Improve" alt="Animated text: Azure DevOps Engineer; building with Azure, Terraform, and CI/CD; learn, build, automate, improve" />
+</p>
 
-I’m building hands-on experience with Azure cloud infrastructure, Terraform, and Azure DevOps CI/CD. My focus is on repeatable Infrastructure as Code, secure delivery workflows, cloud governance, and reliable operations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&amp;logo=azuredevops&amp;logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform" />
+</p>
 
-## Technical Skills
+## ☁️ About Me
 
-- **Cloud:** Microsoft Azure, Virtual Machines, VNets, subnets, NSGs, Storage, Load Balancer, Key Vault
-- **DevOps & CI/CD:** Azure DevOps, YAML pipelines, Azure Repos, GitHub, branching strategies, pull requests
+I’m an aspiring **Azure DevOps Engineer** building hands-on skills in Azure cloud infrastructure, Terraform, and Azure DevOps CI/CD. I enjoy turning infrastructure and delivery steps into repeatable, secure workflows—and sharing what I learn through practical projects.
+
+## 🧰 Technical Skills
+
+- **Azure Cloud:** Virtual Machines, VNets, subnets, NSGs, Storage, Load Balancer, Key Vault
+- **DevOps & CI/CD:** Azure DevOps YAML pipelines, Azure Repos, Git, GitHub, branching, pull requests
 - **Infrastructure as Code:** Terraform, modules, variables, outputs, Azure Blob remote state
-- **DevSecOps:** tfsec, Checkov, infrastructure validation, security scanning, approval workflows
-- **Identity & security:** Microsoft Entra ID, RBAC, Managed Identity, least-privilege access
+- **DevSecOps:** tfsec, Checkov, infrastructure validation, security scans, approval workflows
+- **Identity & security:** Microsoft Entra ID, RBAC, Managed Identity, least privilege
 - **Monitoring & operations:** Azure Monitor, Log Analytics, Linux, PowerShell, Bash
 - **Cloud practices:** Landing Zones, networking, governance, backup and disaster recovery, FinOps
 
-## Projects
+## 🚀 Projects
 
-- **[Hospital Management – Azure DevOps](https://github.com/komal324mane/hospital-management-azure-devops):** Portfolio project; visit the repository for implementation details and current status.
-- **Terraform infrastructure automation & Azure DevOps pipelines — In progress:** Hands-on work with reusable Terraform and YAML CI/CD workflows for Azure infrastructure.
+### [Hospital Management – Azure DevOps](https://github.com/komal324mane/hospital-management-azure-devops)
+Explore the project repository for its implementation, tools, and current status.
 
-## DevOps Workflow
+### Terraform Infrastructure & Azure DevOps Pipelines · In Progress
+Hands-on work with Terraform infrastructure automation and YAML CI/CD pipelines for Azure.
 
-`Code` → `Git` → `Pull Request` → `Validation` → `Security Scan` → `Terraform Plan` → `Approval` → `Deployment` → `Monitoring`
+## 🔄 DevOps Workflow
 
-## Learning Projects & Hands-on Labs
+<p align="center">
+  <strong>Code</strong> → <strong>Git</strong> → <strong>Pull Request</strong> → <strong>Validation</strong> → <strong>Security Scan</strong> → <strong>Terraform Plan</strong> → <strong>Approval</strong> → <strong>Deployment</strong> → <strong>Monitoring</strong>
+</p>
 
-- **Azure Cloud foundations:** Practice provisioning VMs, virtual networks, subnets, NSGs, Storage, Load Balancers, and Key Vault.
-- **Terraform on Azure:** Build and organize modules, configure variables and outputs, and practice remote state with Azure Blob Storage.
-- **DevSecOps pipelines:** Explore YAML validation, tfsec and Checkov scanning, plan review, and gated deployment workflows.
-- **Architecture reference designs:** Explore Azure Landing Zones, hub-and-spoke networking, identity and governance, backup and disaster recovery, and FinOps.
+## 🧪 Learning Projects & Hands-on Labs
 
-## Azure Architecture & DevSecOps Reference
+- **Azure foundations:** Practice provisioning VMs, virtual networks, subnets, NSGs, Storage, Load Balancers, and Key Vault.
+- **Terraform on Azure:** Build reusable modules and practice variables, outputs, and remote state with Azure Blob Storage.
+- **DevSecOps pipelines:** Explore YAML validation, tfsec and Checkov scans, Terraform plan review, and gated deployments.
+- **Architecture reference designs:** Learn Azure Landing Zones, hub-and-spoke networking, identity and governance, backup and disaster recovery, and FinOps.
 
-The diagram below is a learning/reference architecture, not a claim of a production deployment.
+## 🏗️ Azure Architecture & DevSecOps Reference
+
+This is a **learning/reference architecture**, not a claim of a production deployment.
 
 ```mermaid
 flowchart LR
@@ -47,7 +62,7 @@ flowchart LR
     Pipeline[Azure DevOps YAML pipeline<br/>Validate · Scan · Plan · Approve · Deploy] --> App
 ```
 
-## Tools
+## 🛠️ Tools
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
@@ -59,6 +74,8 @@ flowchart LR
 ![Checkov](https://img.shields.io/badge/Checkov-IaC%20Security-4B32C3?style=flat-square)
 ![tfsec](https://img.shields.io/badge/tfsec-Terraform%20Security-3B82F6?style=flat-square)
 
-## Contact
+## 🤝 Connect
 
-- **GitHub:** [github.com/komal324mane](https://github.com/komal324mane)
+I’m always learning and building—feel free to explore my work or connect with me here:
+
+[![GitHub](https://img.shields.io/badge/GitHub-komal324mane-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komal324mane)
