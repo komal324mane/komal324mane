@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Komal 👋</h1>
+<h1 align="center"> Komal Kadam </h1>
 
 <p align="center">
   <strong>Azure DevOps Engineer | Microsoft Azure | Terraform | CI/CD | DevSecOps</strong>
