@@ -28,18 +28,15 @@ I’m building hands-on skills in Azure cloud infrastructure, Terraform, and Azu
 - **Monitoring & operations:** Azure Monitor, Log Analytics, Linux, PowerShell, Bash
 - **Cloud practices:** Landing Zones, networking, governance, backup and disaster recovery, FinOps
 
-## Featured Project
+## Featured Repositories — Priority Order
 
-### [Hospital Management Demo — Azure, Terraform & GitHub Actions](https://github.com/komal324mane/hospital-management-azure-devops)
+These five repositories are presented in the order most relevant to my Azure DevOps portfolio:
 
-A learning project combining a Flask demo app, Terraform for Azure App Service infrastructure, and GitHub Actions CI for application tests and Terraform validation. CI does not deploy to Azure; see the repository for scope, setup, and safety notes.
-
-## Featured Portfolio Repositories
-
-- **[Terraform Azure Infrastructure](https://github.com/komal324mane/terraform-azure-infrastructure):** Reusable networking module with separate development and production examples.
-- **[Azure DevOps Terraform Pipeline](https://github.com/komal324mane/azure-devops-terraform-pipeline):** Windows self-hosted validation, security scans, plan artifact, and protected apply disabled by default.
-- **[Azure Landing Zone Lab](https://github.com/komal324mane/azure-landing-zone-lab):** Learning references for management groups, identity, policy, networking, and monitoring.
-- **[Terraform DevSecOps Security](https://github.com/komal324mane/terraform-devsecops-security):** Isolated insecure and remediated examples with tfsec and Checkov scans.
+1. **[Terraform Azure Infrastructure](https://github.com/komal324mane/terraform-azure-infrastructure)** — Reusable Terraform modules and Azure infrastructure examples, including networking, variables, and outputs.
+2. **[Azure DevOps Terraform Pipeline](https://github.com/komal324mane/azure-devops-terraform-pipeline)** — YAML pipeline practice for Terraform validation, tfsec and Checkov scans, planning, and gated deployment.
+3. **[Azure Landing Zone Lab](https://github.com/komal324mane/azure-landing-zone-lab)** — Learning references for governance, identity, policy, hub-and-spoke networking, and monitoring.
+4. **[Terraform DevSecOps Security](https://github.com/komal324mane/terraform-devsecops-security)** — Security scanning scripts and secure Terraform examples with tfsec and Checkov.
+5. **[Hospital Management Azure DevOps](https://github.com/komal324mane/hospital-management-azure-devops)** — Existing Flask application with Terraform and CI workflows; see the repository for its actual scope and deployment status.
 
 ## DevOps Workflow
 
